@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+
+# Instance configuration
+instance/
+
+# SQLite database files
+*.sqlite
+
+# Log files
+*.log
+
+# If you are using Flask-Uploads, add the following:
+/uploads
+
+# macOS specific
+.DS_Store
+
+# Visual Studio Code
+.vscode/
+
+.vercel
